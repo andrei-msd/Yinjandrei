@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yinjandrei</string>
+    <string name="start_game">Start Play</string>
+    <string name="home">Home</string>
+    <string name="highscore">Highscores</string>\
+    <string name="top_score">Top Scores: </string>
+    <string name="leaderboard">LEADERBOARDS</string>
+    <string name="your_score">Score: </string>
+    <string name="music">🔊</string>
+    <string name="mute">🔈</string>
+    <string name="timer">⌛</string>
+    <string name="one">\n1. </string>
+    <string name="two">\n2. </string>
+    <string name="three">\n3. </string>
+    <string name="four">\n4. </string>
+    <string name="five">\n5. </string>
+    <string name="creators">Andrei Dalusong \n  Youssef Elwakil</string>
+</resources>
